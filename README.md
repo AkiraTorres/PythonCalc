@@ -64,14 +64,17 @@ Helo! Welcome, a project developed by students from UNIFACOL, Facol University, 
 
 ### Contributors 
 
-- Filipe Vinícius Pereira Santos
-
 - Júlio Cesar Roque da Silva
 
-- Maria Jaciara da Silva Santos
-
-- José Thiago Torres da Silva
-
+<a href="https://avatars.githubusercontent.com/u/40040415?v=4">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/40040415?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Thiago Torres</b></sub></a>
+ 
+ <a href="https://avatars.githubusercontent.com/u/83419142?v=4">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/40040415?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Júlio Cesar</b></sub></a>
   
 
 ### Guiding 
@@ -80,7 +83,7 @@ Helo! Welcome, a project developed by students from UNIFACOL, Facol University, 
 
 ## Licence
 
-Copyright (c) 2021 THIAGO TORRES, JULIO CESAR, MARY JACY, FELIPE VINICIUS
+Copyright (c) 2021 THIAGO TORRES, JULIO CESAR
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
 
